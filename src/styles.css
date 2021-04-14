@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.off {
+  height: 20px;
+  width: 20px;
+  background: grey;
+}
+.on {
+  height: 20px;
+  width: 20px;
+  background: green;
+}
